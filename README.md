@@ -3,7 +3,7 @@
 This project is a responsive landing page built using HTML and CSS. It is designed with a clean and modern user interface, making it suitable for showcasing products, services, or personal portfolios.
 
 ## 🚀 Features
-- Responsive design (mobile-friendly)
+- Responsive design (mobile-friendly) 
 - Clean and modern UI
 - Structured layout
 - Easy to customize
