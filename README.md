@@ -8,7 +8,7 @@ This project is a responsive landing page built using HTML and CSS. It is design
 - Structured layout
 - Easy to customize 
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 - HTML
 - CSS
 
