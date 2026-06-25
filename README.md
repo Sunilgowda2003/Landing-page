@@ -7,7 +7,7 @@ This project is a responsive landing page built using HTML and CSS. It is design
 - Clean and modern UI 
 - Structured layout
 - Easy to customize 
-
+ 
 ## 🛠️ Technologies Used
 - HTML
 - CSS
