@@ -9,7 +9,7 @@ This project is a responsive landing page built using HTML and CSS. It is design
 - Easy to customize 
  
 ## 🛠️ Technologies Used  
-- HTML
+- HTML 
 - CSS
 
 ## 📌 Purpose
