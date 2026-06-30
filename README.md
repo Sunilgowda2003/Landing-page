@@ -12,7 +12,7 @@ This project is a responsive landing page built using HTML and CSS. It is design
 - HTML 
 - CSS 
  
-## 📌 Purpose
+## 📌 Purpose 
 This project was created to practice front-end development skills and understand the fundamentals of building a landing page.
 
 ## 👨‍💻 Author
