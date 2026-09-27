@@ -2,6 +2,10 @@
 
 This project is a responsive landing page built using HTML and CSS. It is designed with a clean and modern user interface, making it suitable for showcasing products, services, or personal portfolios.
 
+## 🚀 Live Demo
+
+🔗 **[View Live Demo](https://sunilgowda2003.github.io/Landing-page/)**
+
 ## 🚀 Features
 - Responsive design (mobile-friendly) 
 - Clean and modern UI 
